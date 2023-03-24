@@ -1,0 +1,14 @@
+#resultButton{
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border: 0px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.questions{
+    font-weight: bold;
+}
+.answers{
+    margin-bottom: 20px;
+}
